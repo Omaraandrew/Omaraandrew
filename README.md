@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Omaraandrew
 - 👀 I’m interested in java software development.
 - 🌱 I’m currently learning springboot and microservices
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on microservice projects 
+- 📫 How to reach me @aomara233642@busitema.ac.ug 
 - 😄 Pronouns: him/he/his
 - ⚡ Fun fact: still writing codes for fun
 
